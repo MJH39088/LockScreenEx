@@ -3,6 +3,8 @@
 
 
 메인 화면에서 핸드폰의 전원을 껐다가 키면 귀여운 고양이가 나옵니다.
+
+
 ![image](https://github.com/MJH39088/LockScreenEx/assets/104211982/804d61f9-a5af-4be1-80e6-38adaf496215)
 ![image](https://github.com/MJH39088/LockScreenEx/assets/104211982/8124468a-3176-423e-8d38-a9c413c1d006)
 
